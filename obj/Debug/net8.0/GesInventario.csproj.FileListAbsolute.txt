@@ -1,0 +1,14 @@
+C:\Users\Maria Garcia\source\repos\GesInventario\bin\Debug\net8.0\GesInventario.exe
+C:\Users\Maria Garcia\source\repos\GesInventario\bin\Debug\net8.0\GesInventario.deps.json
+C:\Users\Maria Garcia\source\repos\GesInventario\bin\Debug\net8.0\GesInventario.runtimeconfig.json
+C:\Users\Maria Garcia\source\repos\GesInventario\bin\Debug\net8.0\GesInventario.dll
+C:\Users\Maria Garcia\source\repos\GesInventario\bin\Debug\net8.0\GesInventario.pdb
+C:\Users\Maria Garcia\source\repos\GesInventario\obj\Debug\net8.0\GesInventario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maria Garcia\source\repos\GesInventario\obj\Debug\net8.0\GesInventario.AssemblyInfoInputs.cache
+C:\Users\Maria Garcia\source\repos\GesInventario\obj\Debug\net8.0\GesInventario.AssemblyInfo.cs
+C:\Users\Maria Garcia\source\repos\GesInventario\obj\Debug\net8.0\GesInventario.csproj.CoreCompileInputs.cache
+C:\Users\Maria Garcia\source\repos\GesInventario\obj\Debug\net8.0\GesInventario.dll
+C:\Users\Maria Garcia\source\repos\GesInventario\obj\Debug\net8.0\refint\GesInventario.dll
+C:\Users\Maria Garcia\source\repos\GesInventario\obj\Debug\net8.0\GesInventario.pdb
+C:\Users\Maria Garcia\source\repos\GesInventario\obj\Debug\net8.0\GesInventario.genruntimeconfig.cache
+C:\Users\Maria Garcia\source\repos\GesInventario\obj\Debug\net8.0\ref\GesInventario.dll
